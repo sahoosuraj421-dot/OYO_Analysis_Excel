@@ -132,7 +132,9 @@ Interact with charts to explore insights.
 
 Example:
 
-![Dashboard Preview](Dashboard Image.jpeg)
+![Dashboard Image](https://github.com/user-attachments/assets/c6be0b45-afff-431c-b752-8d39693acf02)
+
+
 📈 Key Skills Demonstrated
 
 Data Cleaning & Preparation
