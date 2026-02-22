@@ -128,7 +128,6 @@ Interact with charts to explore insights.
 
 📷 Dashboard Preview
 
-(Add your dashboard screenshot here in GitHub using drag & drop)
 
 Example:
 
